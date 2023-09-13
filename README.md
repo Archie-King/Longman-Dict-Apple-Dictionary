@@ -17,5 +17,7 @@ This file is too large. So, you can download it from here.
 
 链接: https://pan.baidu.com/s/1C2GhE7E_VX0m6jsR4I3vWw?pwd=f7as 提取码: f7as
 
-![image](https://github.com/Archie-King/Longman-Dict-Apple-Dictionary/assets/64065330/60595934-e6ed-4f79-86db-fee289297105)
+![image](https://github.com/Archie-King/Longman-Dict-Apple-Dictionary/assets/64065330/36178d8e-a6ef-47ac-b7c4-956224a9c29a)
+
+
 
