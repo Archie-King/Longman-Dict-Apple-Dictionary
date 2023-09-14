@@ -15,9 +15,15 @@ This is a folder converted from .mdx dictionary files and I have solved all the 
 
 This file is too large. So, you can download it from here.
 
-链接: https://pan.baidu.com/s/1C2GhE7E_VX0m6jsR4I3vWw?pwd=f7as 提取码: f7as
+1. Google Drive
 
-![image](https://github.com/Archie-King/Longman-Dict-Apple-Dictionary/assets/64065330/36178d8e-a6ef-47ac-b7c4-956224a9c29a)
+     https://drive.google.com/file/d/1nj91or5iRLBoLOhpAA6uXjIaUWOrDzsT/view?usp=sharing
+
+3. Baidu Drive
+
+    链接: https://pan.baidu.com/s/1C2GhE7E_VX0m6jsR4I3vWw?pwd=f7as 提取码: f7as
+   
+    ![image](https://github.com/Archie-King/Longman-Dict-Apple-Dictionary/assets/64065330/36178d8e-a6ef-47ac-b7c4-956224a9c29a)
 
 
 
